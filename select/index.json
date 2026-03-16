@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Afterlife",
+  "base_artist": "Avenged Sevenfold",
+  "createdAt": "2026-03-16T04:27:28.100309Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Afterlife",
+      "artist": "BENEE",
+      "has_synced": false,
+      "path": "select/01_Afterlife_BENEE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Afterlife",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/02_The_Afterlife_YACHT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Afterlife",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/03_Afterlife_Moby.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Afterlife",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/04_Afterlife_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "American Dream (Afterlife mix)",
+      "artist": "Jakatta",
+      "has_synced": false,
+      "path": "select/05_American_Dream_(Afterlife_mix)_Jakatta.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Another Chance (Afterlife Mix)",
+      "artist": "Roger Sanchez",
+      "has_synced": false,
+      "path": "select/06_Another_Chance_(Afterlife_Mix)_Roger_Sanchez.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Afterlife",
+      "artist": "Ultra",
+      "has_synced": false,
+      "path": "select/07_Afterlife_Ultra.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Afterlife",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/08_Afterlife_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In My Afterlife",
+      "artist": "Emma Ruth Rundle",
+      "has_synced": true,
+      "path": "select/09_In_My_Afterlife_Emma_Ruth_Rundle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Afterlife",
+      "artist": "Brennan Savage",
+      "has_synced": true,
+      "path": "select/10_Afterlife_Brennan_Savage.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "After the Afterlife",
+      "artist": "CocoRosie",
+      "has_synced": true,
+      "path": "select/11_After_the_Afterlife_CocoRosie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Afterlife (feat. PLS&TY) - PLS&TY Remix",
+      "artist": "XYLØ feat. PLS&TY",
+      "has_synced": true,
+      "path": "select/12_Afterlife_(feat._PLS&TY)_-_PLS&TY_Remix_XYLØ_feat._PLS&TY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Afterlife (PLS&TY Remix)",
+      "artist": "XYLØ",
+      "has_synced": true,
+      "path": "select/13_Afterlife_(PLS&TY_Remix)_XYLØ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Afterlife (Radio Edit)",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/14_The_Afterlife_(Radio_Edit)_YACHT.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Afterlife",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/15_The_Afterlife_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "After The Afterlife",
+      "artist": "Chad VanGaalen",
+      "has_synced": true,
+      "path": "select/16_After_The_Afterlife_Chad_VanGaalen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Afterlife",
+      "artist": "Avenged Sevenfold",
+      "has_synced": false,
+      "path": "select/pl_01_Afterlife_Avenged_Sevenfold.txt"
+    }
+  ]
+}
